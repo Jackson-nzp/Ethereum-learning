@@ -1,0 +1,22 @@
+var output =
+{
+"contracts":
+	{"Vault.sol:Vault":
+		{"abi":[{
+				"inputs":[],
+				"name":"get",
+				"outputs":[{"internalType":"uint256","name":"","type":"uint256"}],
+				"stateMutability":"view",
+				"type":"function"
+				},
+				{"inputs":[{"internalType":"uint256","name":"data","type":"uint256"}],
+				"name":"set",
+				"outputs":[],
+				"stateMutability":"nonpayable",
+				"type":"function"
+				}],
+		"bin":"6080604052348015600f57600080fd5b5060ac8061001e6000396000f3fe6080604052348015600f57600080fd5b506004361060325760003560e01c806360fe47b11460375780636d4ce63c146049575b600080fd5b60476042366004605e565b600055565b005b60005460405190815260200160405180910390f35b600060208284031215606f57600080fd5b503591905056fea26469706673582212202ed3ba65b5e16a63a010bf5b7a932d7e995698cc6d63a2a770897c180775ef3364736f6c63430008110033"
+		}
+	},
+"version":"0.8.17+commit.8df45f5f.Linux.g++"
+}
