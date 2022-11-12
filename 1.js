@@ -1,4 +1,4 @@
-loadScript('/home/jackson/go-ethereum/ether-test/temp.js')
+loadScript('path/to/your/own/file/temp.js')
 
 var myAbi = output.contracts['Vault.sol:Vault'].abi
 
